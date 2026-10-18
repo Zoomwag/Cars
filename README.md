@@ -1,5 +1,5 @@
 
-
+This is an Incredibly cool cad of a car. It is based loosely off the koenigsegg jesko .
 
 
 <img width="1420" height="752" alt="Untitled_2026-Oct-18_08-07-27PM-000_CustomizedView74429974850" src="https://github.com/user-attachments/assets/1d6c405c-db7b-4c8b-a088-9bbc0f7fbcbc" />
