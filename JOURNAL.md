@@ -24,11 +24,14 @@ here i started learning the basics of how forms work and how i could properly ma
 here i  started making the side features of the car. It was so incerbly annoying when i kept on getting so many error and some times when i welded the wrong thing it starter to look like modern art ...
 <img width="1273" height="995" alt="image" src="https://github.com/user-attachments/assets/b4d1c919-e674-4443-8068-e29a47b53cb4" />
 
+# Devlog 4
 
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan
+
+here is desinged the wheels for the car. It was really fun becuase it was basically jsut a bunch or filltets and circular patterns
+<img width="438" height="503" alt="image" src="https://github.com/user-attachments/assets/1f17ce47-4cf9-4fb8-a176-8627c90dad11" />
+
 
 **Author:** [Name]
 **Date:** [DD/MM/YYYY]
