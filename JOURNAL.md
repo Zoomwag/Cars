@@ -39,29 +39,12 @@ here is desinged the wheels for the car. It was really fun becuase it was basica
 This was when i started to actually lock in with forms. It was like something clicked. Then reality hit. There were so meany geometic error it nearly crahes my laptop. :(
 <img width="602" height="255" alt="image" src="https://github.com/user-attachments/assets/368d3e9c-9eb0-478e-b0e3-3b6a525e9eb5" />
 
+# Devlog 6
+
+After spending probably 2 hours fixing the errors and colouring i think that it looks pretty good.
+<img width="897" height="580" alt="image" src="https://github.com/user-attachments/assets/eb23d95a-38f5-4ad7-947f-68e86291a656" />
+
 
 **Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
